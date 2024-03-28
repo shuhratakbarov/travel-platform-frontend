@@ -1,0 +1,13 @@
+export const FRONT_BASE_URL = 'http://localhost:3000/';
+export const HOME = '/home';
+export const TOUR = '/tour';
+export const HOTEL = '/hotel';
+export const RESTAURANT = '/restaurant';
+export const HOSPITAL = '/hospital';
+export const MONUMENT = '/monument';
+export const SHOP = '/shop';
+export const BANK = '/bank';
+export const TRANSPORT = '/transport';
+export const ABOUT = '/about';
+export const CONTACT = '/contact';
+export const LOGIN = '/login';

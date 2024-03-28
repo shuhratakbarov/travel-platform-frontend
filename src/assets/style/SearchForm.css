@@ -1,0 +1,44 @@
+.transport-search-form {
+    padding: 0 3vh 3vh 3vh;
+    border: 1px solid #ccc;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    margin-top: 3vh;
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+.search-title {
+    font-size: 5vh;
+    text-align: center;
+    margin-bottom: 3vh;
+    font-weight: bold;
+}
+
+.search-form {
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 2vh;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.date-picker {
+    width: 100%;
+}
+
+.price-select {
+    width: 100%;
+}
+
+.search-button {
+    height: 7vh;
+    width: 100%;
+    font-size: 3vh;
+}
